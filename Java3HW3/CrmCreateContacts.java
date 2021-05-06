@@ -15,6 +15,7 @@ public class CrmCreateContacts {
     private static WebDriver driver;
     private static final String LOGIN_PAGE_URL = "https://crm.geekbrains.space/user/login";
 
+
     public static void main(String[] args) throws InterruptedException {
         WebDriverManager.chromedriver().setup();
 
