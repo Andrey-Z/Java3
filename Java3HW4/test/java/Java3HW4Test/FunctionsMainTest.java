@@ -30,6 +30,4 @@ public class FunctionsMainTest {
         assumeTrue(1==2);
         assertEquals(1,1);
     }
-
-
 }
