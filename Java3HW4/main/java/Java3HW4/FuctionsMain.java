@@ -12,7 +12,7 @@ public class FuctionsMain {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Введите длину стороны a: ");
+        System.out.println("Введите длину стороны a:  ");
         int a = scanner.nextInt();
 
         System.out.println("Введите длину стороны b: ");

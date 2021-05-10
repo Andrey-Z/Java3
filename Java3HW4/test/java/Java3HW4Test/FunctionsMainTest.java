@@ -7,7 +7,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import static
+
 
 public class FunctionsMainTest {
     Functions functions = new Functions();
@@ -30,6 +30,4 @@ public class FunctionsMainTest {
         assumeTrue(1==2);
         assertEquals(1,1);
     }
-
-
 }
