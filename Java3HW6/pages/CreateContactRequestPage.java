@@ -6,6 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.Select;
 
 public class CreateContactRequestPage extends BaseView {
+
     public CreateContactRequestPage(WebDriver driver) {
         super(driver);
     }

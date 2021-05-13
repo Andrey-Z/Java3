@@ -9,6 +9,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class MainPage extends BaseView {
 
+
     public NavigationMenu navigationMenu;
 
     public MainPage(WebDriver driver) {

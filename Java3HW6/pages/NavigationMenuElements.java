@@ -8,6 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import java.util.List;
 
 public class NavigationMenuElements  extends BaseView {
+
     public NavigationMenuElements(WebDriver driver) {
         super(driver);
     }

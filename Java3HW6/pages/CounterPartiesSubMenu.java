@@ -5,6 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class CounterPartiesSubMenu extends BaseView{
+
     public CounterPartiesSubMenu(WebDriver driver) {
         super(driver);
     }

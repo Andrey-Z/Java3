@@ -8,6 +8,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 public class LoginPage extends BaseView {
 
 
+
     @FindBy(id = "prependedInput" )
     public WebElement inputLogin;
 

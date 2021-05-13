@@ -12,6 +12,7 @@ import static Java3HW6Test.Configuration.BASE_URL;
 public class LoginWithPageObjectTests  extends BaseTest {
 
 
+
     @BeforeEach
     public void goToPage(){
     driver.get(BASE_URL);
